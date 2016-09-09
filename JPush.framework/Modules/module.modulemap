@@ -1,0 +1,6 @@
+framework module JPush {
+  umbrella header "JPush.h"
+
+  export *
+  module * { export * }
+}
